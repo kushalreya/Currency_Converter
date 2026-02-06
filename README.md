@@ -46,7 +46,31 @@ This project focuses on:
 3. Select output currency
 4. Conversion happens automatically
 
-## 📸 App Snapshots
+---
+
+## 📥 Smart Input System
+Amount input with validation
+Prevents empty / invalid values
+Three-decimal precision output
+
+## 🔽 Currency Selection
+Input currency dropdown
+Output currency dropdown
+Instant recomposition on change
+
+## ⚡ Real-Time Conversion
+Automatic calculation on every input change
+No submit button required
+State-driven UI updates
+
+## 🎨 Clean Material 3 UI
+Centered minimalist layout
+Custom color palette
+Modern Compose styling
+
+---
+
+# 📸 App Snapshots
 
 <p align="center">
   <img src="snapshots/1.png" width="220"/>
